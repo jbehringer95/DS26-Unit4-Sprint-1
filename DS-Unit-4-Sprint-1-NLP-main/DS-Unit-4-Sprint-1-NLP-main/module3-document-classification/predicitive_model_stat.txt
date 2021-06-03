@@ -1,0 +1,13 @@
+LSI gridsearchcv best params
+{'clf__max_depth': None,
+ 'clf__n_estimators': 350,
+ 'lsi__svd__n_components': 10,
+ 'lsi__vect__max_df': 1.0}
+ score: 0.731833621125652
+
+ Word Embedding RandomizedSearchCV, GBC best params
+ {'max_depth': 8, 'min_samples_leaf': 10}
+ score: 0.7448004357285435
+
+ Text Extraction and Classification Pipeline best params
+ 
